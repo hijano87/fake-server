@@ -1,0 +1,184 @@
+[
+  {
+    "id": "cumple2020",
+    "name": "Cumple Cari",
+    "description": "Descripcion de la gymkhana de cumple",
+    "tests": [
+      {
+        "id": "2do23",
+        "name": "Diversión",
+        "description": "raguj euq seneit idrog ut noc asem ed ogeuj etse a rasap abeurp atse arap",
+        "enabled": true,
+        "solved": false,
+        "next": "sk093",
+        "clues": [
+          {
+            "id": "deeae",
+            "text": "Escritura inversa",
+            "used": false
+          },
+          {
+            "id": "yc32e",
+            "text": "Juego de mesa para dos jugadores",
+            "used": false
+          },
+          {
+            "id": "jj04j",
+            "text": "Aparecen insectos",
+            "used": false
+          }
+        ]
+      },
+      {
+        "id": "sk093",
+        "name": "Locura",
+        "description": "1A 1B 1C 1D 1E 1F 1G 1J 1O 1S 1T 1U 1W 1X 1Y 1Z 1AA 1AB 1AC 2A 2G 2I 2J 2L 2M 2N 2P 2Q 2R 2S 2W 2AC 3A 3C 3D 3E 3G 3J 3K 3L 3O 3P 3T 3U 3W 3Y 3Z 3AA 3AC 4A 4C 4D 4E 4G 4I 4J 4L 4Q 4R 4T 4W 4Y 4Z 4AA 4AC 5A 5C 5D 5E 5G 5K 5M 5N 5R 5S 5T 5W 5Y 5Z 5AA 5AC 6A 6G 6I 6K 6N 6O 6P 6R 6W 6AC 7A 7B 7C 7D 7E 7F 7G TI 7K 7M 7O 7Q 7S 7U 7W 7X 7Y 7Z 7AA 7AB 7AC 8M 8N 8P 9A 9B 9C 9D 9E 9G 9H 9I 9J 9K 9M 9O 9P 9Q 9R 9U 9V 9X 9Z 9AB 10A 10E 10H 10I 10J 10R 10S 10T 10U 10W 10X 10Y 10AC 11B 11C 11D 11E 11F 11G 11H 11J 11L 11M 11P 11Q 11V 11Y 12A 12B 12C 12E 12F 12H 12J 12K 12L 12O 12V 12W 12X 12Y 12AB 13B 13G 13I 13J 13L 13R 13S 13U 13X 13Z 13AA 14B 14C 14E 14F 14H 14I 14J 14K 14M 14N 14O 14Q 14R 14S 14T 14U 14V 14W 14X 14Y 14AA 14AC 15B 15D 15E 15G 15H 15I 15N 15O 15P 15Q 15R 15U 15AA 16D 16J 16M 16N 16X 16AB 17A 17B 17F 17G 17I 17M 17O 17P 17Q 17R 17AA 18A 18B 18C 18H 18I 18J 18Q 18T 18U 18V 18W 18Y 18Z 18AA 18AC 19A 19C 19D 19E 19G 19H 19I 19J 19L 19M 19P 19Q 19V 19X 19Z 19AA 20A 20D 20H 20I 20K 20L 20O 20Q 20S 20T 20X 20Y 20AB 21A 21C 21E 21F 21G 21I 21L 21R 21U 21V 21W 21X 21Y 21AA 21AB 21AC 22I 22J 22M 22N 22O 22S 22T 22U 22Y 22Z 22AA 22AB 22AC 23A 23B 23C 23D 23E 23F 23G 23I 23J 23K 23N 23O 23P 23Q 23T 23U 23W 23Y 23Z 23AA 24A 24G 24M 24N 24T 24U 24Y 24Z 25A 25C 25D 25E 25G 25I 25K 25M 25O 25P 25Q 25R 25U 25V 25W 25X 25Y 25Z 25AA 26A 26C 26D 26E 26G 26I 26J 26K 26Q 26T 26X 26Z 26AB 26AC 27A 27C 27D 27E 27G 27I 27K 27L 27M 27P 27R 27S 27T  27W 27X 27Y 27Z 27AA 27AB 28A 28G 28I 28L 28O 28P 28Q 28T 28U 28V 28X 28Z 28AB 29A 29B 29C 29D 29E 29F 29G 29I 29J 29L 29P 29Q 29R 29T 29W 29X 29Y 29Z 29AA",
+        "enabled": false,
+        "solved": false,
+        "next": "pjlpp",
+        "clues": [
+          {
+            "id": "mx7au",
+            "text": "Cada par de número y letra(s) representa una casilla",
+            "used": false
+          },
+          {
+            "id": "vnfsg",
+            "text": "En el eje vertical números de arriba a abajo y en el eje horizontal letras de izquierda a derecha",
+            "used": false
+          },
+          {
+            "id": "zs10m",
+            "text": "Utiliza una hoja cuadriculada o mucho mejor una hoja de cálculo para colorear en negro cada casilla",
+            "used": false
+          }
+        ]
+      },
+      {
+        "id": "pjlpp",
+        "name": "Relax",
+        "description": "papa india november tango alfa romeo charlie oscar november tango uniform alfa mike oscar romeo delta echo bravo echo sierra sierra india echo sierra quebec uniform echo sierra echo golf uniform india romeo alfa victor alfa november zulu alfa november delta oscar quebec uniform india echo romeo echo sierra",
+        "enabled": false,
+        "solved": false,
+        "next": "yqown",
+        "clues": [
+          {
+            "id": "hsl5f",
+            "text": "Alfabeto radiofónico",
+            "used": false
+          },
+          {
+            "id": "pxabh",
+            "text": "Busca un libro de mandalas",
+            "used": false
+          },
+          {
+            "id": "hp79e",
+            "text": "Tu gran oportunidad puede estar justo donde estás ahora - Napoleon Hill",
+            "used": false
+          }
+        ]
+      },
+      {
+        "id": "yqown",
+        "name": "Amor",
+        "description": "-     .-.     .-     ... \n .     ...     -     . \n -...     .     ...     --- \n .     -. \n .-..     .-     ... \n .-     .-..     -      ..-     .-.     .-     ... \n ..-     -.     .- \n -.-.     ....     ---     .-.     .--.     .-.     .     -.-.     ....     .- \n ....     .- -.-- \n ...     .     --.     ..-     .-.     .-",
+        "enabled": false,
+        "solved": false,
+        "next": "8fdt8",
+        "clues": [
+          {
+            "id": "brqql",
+            "text": "Código Morse",
+            "used": false
+          },
+          {
+            "id": "jlm8j",
+            "text": "Busca una foto donde te beses con tu gordi",
+            "used": false
+          },
+          {
+            "id": "igxzv",
+            "text": "Está en un imán",
+            "used": false
+          }
+        ]
+      },
+      {
+        "id": "8fdt8",
+        "name": "Tontería",
+        "description": "Py pefp bpcgpza ñmupda cgp wm xgomylm sm dpñsmlmoa otypda sme op dpftdmd bmdm pyñayfdmd wa ngeñmoa",
+        "enabled": false,
+        "solved": false,
+        "next": "q2g9u",
+        "clues": [
+          {
+            "id": "gn830",
+            "text": "Cifrado César, desplazamiento 12",
+            "used": false
+          },
+          {
+            "id": "8stiw",
+            "text": "Foto en telegram 28 abril 2020",
+            "used": false
+          },
+          {
+            "id": "u9kvt",
+            "text": "Si, deberás ir a casa de tu querido novio y sacar dinero de la hucha/cajero sin forzarla",
+            "used": false
+          }
+        ]
+      },
+      {
+        "id": "q2g9u",
+        "name": "Ternura",
+        "description": "wc kxñxchgmw grsmlfgr plw ro slxzh arf ch grsyw i afrmwñw klwomfr yrñhf, hyrfh mw wsyh lgh ahmxmh ahfh plw alwzho srgmxglhf.",
+        "enabled": false,
+        "solved": false,
+        "next": "r9rvo",
+        "clues": [
+          {
+            "id": "oc84n",
+            "text": "Cifrado por sustitución hdszwqñyxnvcugtrapfomlkbjie",
+            "used": false
+          },
+          {
+            "id": "p3kfy",
+            "text": "Le gusta abrazar",
+            "used": false
+          },
+          {
+            "id": "yd169",
+            "text": "Enganchado al cabecero está",
+            "used": false
+          }
+        ]
+      },
+      {
+        "id": "r9rvo",
+        "name": "Verano",
+        "description": "z xz ye czteap rklmmft aupswocym, i ad qrxlk pmeom uuq fr txqo mykxwqt ikd yc k swzzuhgs.",
+        "enabled": false,
+        "solved": false,
+        "next": "",
+        "clues": [
+          {
+            "id": "4dbqg",
+            "text": "Maquina enigma\nReflector: UKW C\nRotor 1: VII Posición: 8H Anillo: 13M\nRotor 2: III Posición: 16P Anillo: 5E\nRotor 3: I Posicion: 24X Anillo: 2B",
+            "used": false
+          },
+          {
+            "id": "fbhwr",
+            "text": "Utiliza la pagina https://cryptii.com/ para ayudarte",
+            "used": false
+          },
+          {
+            "id": "15y3r",
+            "text": "Para ir a almorzar a la playa probablemente necesitarás este objeto",
+            "used": false
+          }
+        ]
+      }
+    ]
+  }
+]
